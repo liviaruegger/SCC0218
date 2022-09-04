@@ -10,7 +10,7 @@ typedef pair<double,double> coverage_t;
 
 coverage_t calculate_sprinkler_coverage(int h, int center, int radius)
 {
-    double a = (double)(h / 2);
+    double a = (double)h / 2;
     if (radius < a) return make_pair((double)center, (double)center);
 
     // Pythagorean theorem
@@ -26,7 +26,7 @@ int min_n_of_intervals(coverage_t interval, vector<coverage_t> coverage)
 {
     sort(coverage.begin(), coverage.end());
 
-    if (coverage[0].first >= interval.first) return -1;
+    if (coverage[0].first > interval.first) return -1;
 
     double start = interval.first;
     double end = coverage[0].second;
