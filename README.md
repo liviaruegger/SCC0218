@@ -4,4 +4,4 @@ Programming exercises solved for the Advanced Algorithms and Applications course
 ### Study topics
 - [Stable Matching Problem (SMP)](/E01/)
 - **Greedy Algorithms:** [Interval Covering](/E02/), [Station Balance](/E03/)
-- **Backtracking:** [Word Search](/E04/)
+- **Backtracking:** [Word Search](/E04/), [The Eight Queens Problem](/E05/)
