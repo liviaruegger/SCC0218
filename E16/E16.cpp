@@ -53,13 +53,13 @@ int edmonds_karp(int source, int sink)
     {
         int bottleneck = INT32_MAX;
         
-        for (int v = sink; v != source; v = parent[v])
+        for (v = sink; v != source; v = parent[v])
         {
             u = parent[v];
             bottleneck = min(bottleneck, residual[u][v]);
         }
 
-        for (int v = sink; v != source; v = parent[v])
+        for (v = sink; v != source; v = parent[v])
         {
             u = parent[v];
             residual[u][v] -= bottleneck;
