@@ -9,3 +9,4 @@ Programming exercises solved for the Advanced Algorithms and Applications course
 - **Dynamic Programming:** [Mountain Jump](/E08/), [Resort Tickets](/E09/), [Grid](/E10/), [Longest Increasing Subsequence (LIS)](/E11/), [Ada and Subsequence](/E12/), [Edit Distance](/E13/)
 - **Graphs:** [Shortest Routes](/E14/), [Cycle](/E15/), [Internet Bandwidth](/E16/)
 - **Number Theory:** [Factovisors](/E17/), [Simple Division](/E18/), [Ocean Deep](/E19/)
+- **Strings:** [Pattern Find](/E20/), [String Queries](/E21/)
