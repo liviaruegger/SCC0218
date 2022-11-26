@@ -10,4 +10,4 @@ Programming exercises solved for the Advanced Algorithms and Applications course
 - **Graphs:** [Shortest Routes](/E14/), [Cycle](/E15/), [Internet Bandwidth](/E16/)
 - **Number Theory:** [Factovisors](/E17/), [Simple Division](/E18/), [Ocean Deep](/E19/)
 - **Strings:** [Pattern Find](/E20/), [String Queries](/E21/)
-- **Game Theory:** [Nim Cheater](/E22/)
+- **Game Theory:** [Nim Cheater](/E22/), [Yet Another String Game](/E23/)
