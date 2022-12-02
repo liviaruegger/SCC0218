@@ -11,3 +11,4 @@ Programming exercises solved for the Advanced Algorithms and Applications course
 - **Number Theory:** [Factovisors](/E17/), [Simple Division](/E18/), [Ocean Deep](/E19/)
 - **Strings:** [Pattern Find](/E20/), [String Queries](/E21/)
 - **Game Theory:** [Nim Cheater](/E22/), [Yet Another String Game](/E23/)
+- **Computational Geometry:** [](/E24/), [Convex Fence](/E25/)
